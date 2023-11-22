@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyas hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas hegde" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyashegde__02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyashegde__02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shreyashegde__02/?next=%2F" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg" alt="shreyashegde__02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
